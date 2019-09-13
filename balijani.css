@@ -1,0 +1,106 @@
+@font-face {
+    font-family:'bali jelih std';
+    src: url('Bali Jelih std.eot');
+    src: url('Bali Jelih std.eot?#iefix') format('embedded-opentype'),
+         url('Bali Jelih std.woff2') format('woff2'),
+         url('Bali Jelih std.woff') format('woff'),
+         url('Bali Jelih std.ttf') format('truetype'),
+         url('Bali Jelih std.svg#bali jelih stdregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
+
+@font-face {
+    font-family:'bali jenar std';
+    src: url('Bali Jenar Std.eot');
+    src: url('Bali Jenar Std.eot?#iefix') format('embedded-opentype'),
+         url('Bali Jenar Std.woff2') format('woff2'),
+         url('Bali Jenar Std.woff') format('woff'),
+         url('Bali Jenar Std.ttf') format('truetype'),
+         url('Bali Jenar Std.svg#bali jenar stdregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
+
+@font-face {
+    font-family:'bali jelihjih';
+    src: url('Bali Jelihjih.eot');
+    src: url('Bali Jelihjih.eot?#iefix') format('embedded-opentype'),
+         url('Bali Jelihjih.woff2') format('woff2'),
+         url('Bali Jelihjih.woff') format('woff'),
+         url('Bali Jelihjih.ttf') format('truetype'),
+         url('Bali Jelihjih.svg#bali jelihjihreguler') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
+@font-face {
+    font-family:'Bali Lite On';
+    src: url('Bali Lite On.eot');
+    src: url('Bali Lite On.eot?#iefix') format('embedded-opentype'),
+         url('Bali Lite On.woff2') format('woff2'),
+         url('Bali Lite On.woff') format('woff'),
+         url('Bali Lite On.ttf') format('truetype'),
+         url('Bali Lite On.svg#Bali Lite Onreguler') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
+@font-face {
+    font-family:'Bali Lontar Jenar';
+    src: url('Bali Lontar Jenar.eot');
+    src: url('Bali Lontar Jenar.eot?#iefix') format('embedded-opentype'),
+         url('Bali Lontar Jenar.woff2') format('woff2'),
+         url('Bali Lontar Jenar.woff') format('woff'),
+         url('Bali Lontar Jenar.ttf') format('truetype'),
+         url('Bali Lontar Jenar.svg#Bali Lontar Jenarreguler') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
+@font-face {
+    font-family:'Bali Natya';
+    src: url('Bali Natya.eot');
+    src: url('Bali Natya.eot?#iefix') format('embedded-opentype'),
+         url('Bali Natya.woff2') format('woff2'),
+         url('Bali Natya.woff') format('woff'),
+         url('Bali Natya.ttf') format('truetype'),
+         url('Bali Natya.svg#Bali Natyareguler') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
+@font-face {
+    font-family:'Bali Patra Std';
+    src: url('Bali Patra Std');
+    src: url('Bali Patra Std.eot?#iefix') format('embedded-opentype'),
+         url('Bali Patra Std.woff2') format('woff2'),
+         url('Bali Patra Std.woff') format('woff'),
+         url('Bali Patra Std.ttf') format('truetype'),
+         url('Bali Patra Std.svg#Bali Patra Stdreguler') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
+@font-face {
+    font-family:'KWTimes New Roman';
+    src: url('KWTimes New Roman');
+    src: url('KWTimes New Roman.eot?#iefix') format('embedded-opentype'),
+         url('KWTimes New Roman.woff2') format('woff2'),
+         url('KWTimes New Roman.woff') format('woff'),
+         url('KWTimes New Roman.ttf') format('truetype'),
+         url('KWTimes New Roman.svg#KWTimes New Romanreguler') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
